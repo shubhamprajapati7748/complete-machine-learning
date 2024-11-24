@@ -1,6 +1,6 @@
 # Complete Machine Learning Algorithms
 
-## To create the environment
+## Create the virtual environment and install dependencies
 
 1. Create a Virtual Environment (Optional but recommended)
 
