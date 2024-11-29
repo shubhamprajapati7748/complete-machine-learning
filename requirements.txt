@@ -5,3 +5,4 @@ seaborn
 ipykernel
 scikit-learn
 statsmodels
+plotly==5.24.1
